@@ -14,9 +14,17 @@ Voici la liste des différents fichiers proposés dans COMMODORE64-0 :
 			<th>Nom</th>
 			<th>Description</th>	
 		</tr>
-    <tr>
+		<tr>
+			<td><b>ASM6502.PAS</b></td>
+			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 6502.</td>
+		</tr>		
+    		<tr>
 			<td><b>C64.PAS</b></td>
 			<td>Cette commande permet de lancer un clone de l'interpréteur de BASIC du Commodore 64.</td>
+		</tr>
+	       	<tr>
+		       <td><b>RUN6502.PAS</b></td>
+		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
 		</tr>
 </table>
 	
