@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans COMMODORE64-0 :
 			<td><b>C64.PAS</b></td>
 			<td>Cette commande permet de lancer un clone de l'interpréteur de BASIC du Commodore 64.</td>
 		</tr>
+		<tr>
+			<td><b>DIR64.PAS</b></td>
+			<td>Cette commande permet d'afficher la liste des fichiers que contient une image de format .D64 du Commodore 64.</td>
+		</tr>
 	       	<tr>
 		       <td><b>RUN6502.PAS</b></td>
 		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
