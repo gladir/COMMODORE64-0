@@ -26,6 +26,10 @@ Voici la liste des différents fichiers proposés dans COMMODORE64-0 :
 			<td><b>DIR64.PAS</b></td>
 			<td>Cette commande permet d'afficher la liste des fichiers que contient une image de format .D64 du Commodore 64.</td>
 		</tr>
+		<tr>
+			<td><b>DIS6502.PAS</b></td>
+			<td>Cette commande permet de désassembler un code binaire de microprocesseur 6502 en langage de programmation assembleur 6502.</td>
+		</tr>	
 	       	<tr>
 		       <td><b>RUN6502.PAS</b></td>
 		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
