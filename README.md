@@ -1,5 +1,5 @@
 # COMMODORE64-0
-Liste de commandes en Pascal pour le Commodore 64
+Liste de commandes en Pascal (Turbo Pascal ou Free Pascal) pour le Commodore 64
 
 Aperçu de la commande C64 :
 
